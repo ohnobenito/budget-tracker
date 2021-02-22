@@ -24,7 +24,7 @@ Budget Tracker is an application that allows the user to add/subtract funds so t
 ## Installation 
 Application is deployed [here](https://polar-journey-66901.herokuapp.com/) so no installation needed for use. However, if user wants access on local device the user will need to fork the repository and run an npm install by entering in the following on the command line in the correct directory:<br>
 `npm install`<br>
-This will install all required dependancies into the package.json file that are require to use this application. User can start application by running the following on the command line:
+This will install all required dependancies into the package.json file that are require to use this application. User can start application by running the following on the command line:<br>
 `npm start`
 
 ## Usage 
